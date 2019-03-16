@@ -1,0 +1,4 @@
+#Sun Feb 03 21:16:23 PKT 2019
+base.0=D\:\\AndroidStudio\\SemicolonsVestium\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\10
+path.0=classes.dex
+renamed.0=classes.dex
